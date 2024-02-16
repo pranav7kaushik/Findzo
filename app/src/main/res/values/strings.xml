@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Findzo</string>
+    <string name="drawerOpen">drawerOpen</string>
+    <string name="drawerClose">drawerClose</string>
+    <string name="findzo">Findzo What ?</string>
+    <string name="help">Help</string>
+    <string name="shop">Shop</string>
+    <string name="about">About Us</string>
+    <string name="contact">Contact Us</string>
+</resources>
